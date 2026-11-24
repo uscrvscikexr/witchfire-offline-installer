@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+AIDA is an interactive movie/game with unique mechanics. Help Aida escape the ghetto and reach the mythical E continent.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mountain Lion 10.8.5 |
+| **Processor** | Min: 2.66 GHZ DUAL CORE, INTEL® CORE 2 Duo or AMD equivalent / Rec: 3.1 GHZ DUAL-CORE, INTEL® CORE I3 | 2.66 GHz Dual-Core - Intel Core 2 Duo E8135 |
+| **Memory** | Min: 2048 MB RAM / Rec: 4 GB RAM | 2 GB RAM |
+| **Graphics** | Min: 512 MB VRAM, NVIDIA GeForce 8600GT/ATI Radeon HD 3850/I… / Rec: 1 GB VRAM, NVIDIA GeForce GTX 550 Ti/AMD Radeon HD 5850 | 256 MB VRAM, NVIDIA GeForce 9400M / AMD Radeon HD 2600 … |
+| **DirectX** | Version 9.0c | Version 9.0c |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows 7 SP1/8.1/10 | Windows 7 SP1/8.1/10 |
 
 ---
 
